@@ -81,5 +81,5 @@ found at the earliest possible level.
 ## Code
 
 The Python implementation of breadth-first search is available in
-`breadth_first_search.py`.
+`chapter_6_breadth_first_search.py`.
 
