@@ -78,5 +78,5 @@ algorithms and optimization techniques.
 
 ## Code
 
-The Python implementation of quicksort is available in `quicksort.py`.
+The Python implementation of quicksort is available in `chapter_4_quicksort.py`.
 
