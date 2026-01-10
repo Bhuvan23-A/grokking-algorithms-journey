@@ -73,5 +73,5 @@ to look.
 ## Code
 
 The Python implementation of a basic hash table is available in
-`hash_tables.py`.
+`chapter_5_hash_tables.py`.
 
